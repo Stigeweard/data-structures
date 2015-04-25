@@ -50,5 +50,5 @@ var Node = function(value){
 };
 
 /*
- * Complexity: What is the time complexity of the above functions?
+ * Complexity: What is the time complexity of the above functions? list.contains is linear O(n)
  */
