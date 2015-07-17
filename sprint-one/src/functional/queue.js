@@ -3,6 +3,8 @@ var Queue = function(){
 
   // Use an object with numeric keys to store values
   var storage = {};
+  var firstInLine = 0;
+  var lastInLine = 0;
 
   // Implement the methods below
 
